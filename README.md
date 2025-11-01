@@ -1,5 +1,6 @@
 Customer-Purchase-Insights-Excel-Analysis
-This project showcases an Excel dashboard built to analyze customer purchase data. It highlights patterns across age groups, discounts, and profit margins, enabling better understanding of consumer behavior and sales trends.
+
+This project showcases an Excel dashboard for analyzing customer purchase data. It highlights patterns across age groups, discounts, and profit margins, enabling a better understanding of consumer behavior and sales trends.
 
 🧭 Project Overview
 The goal of this project is to analyze how customer demographics and discount rates affect total sales and profitability.
