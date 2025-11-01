@@ -2,10 +2,12 @@ Customer-Purchase-Insights-Excel-Analysis
 
 This project showcases an Excel dashboard for analyzing customer purchase data. It highlights patterns across age groups, discounts, and profit margins, enabling a better understanding of consumer behavior and sales trends.
 
+
 🧭 Project Overview
 
 The goal of this project is to analyze how customer demographics and discount rates affect total sales and profitability.
 Using Excel’s built-in analytical tools, the dataset was transformed into a dynamic dashboard that presents key business KPIs and visual insights.
+
 
 🧾 Dataset Description
 
@@ -21,6 +23,7 @@ Using Excel’s built-in analytical tools, the dataset was transformed into a dy
 10. Age Group
 11. Date
 12. Customer ID	
+
 
 ⚙️ Steps Performed
 
@@ -43,6 +46,7 @@ Added calculated fields and formatted numbers, dates, and percentages
 Built PivotTables for Sales and Profit summaries
 Designed KPI Cards for Total Sales, Total Quantity Sold, Total Profit, Average Transaction Value, and Total Customers
 Added Pivot charts
+
 
 💡 Key Insights from the Dashboard
 
@@ -81,6 +85,7 @@ The Electronics category generates the highest profit (~₹67,200), followed by 
 The Beauty category shows the least profit (~₹21,000), possibly due to lower margins or higher discounts.
 This helps identify where to adjust pricing and discount strategies for optimal profitability.
 
+
 🧠 Business Recommendations
 
 1. Increase targeted promotions toward 25–40-year-old customers, as they are the most profitable segment.
@@ -88,10 +93,12 @@ This helps identify where to adjust pricing and discount strategies for optimal 
 3. Maintain focus on Electronics, but consider introducing bundled offers to increase volume.
 4. Introduce youth-oriented campaigns to capture the below-25 segment, perhaps via social media engagement.
 
+
 📈 Dashboard Features
 
 ✅ KPI Cards for key business metrics
 ✅ Visual analysis by Age Group, Product, and Gender
+
 
 🧠 Skills & Tools Used
 
